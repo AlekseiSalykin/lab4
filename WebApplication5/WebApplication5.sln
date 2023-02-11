@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication5", "WebApplication5\WebApplication5.csproj", "{263BF20D-22A5-4776-908D-3416EE7EE4F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maps", "Maps\Maps.csproj", "{55966CEB-5556-4704-868F-F897C79D078A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{263BF20D-22A5-4776-908D-3416EE7EE4F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263BF20D-22A5-4776-908D-3416EE7EE4F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263BF20D-22A5-4776-908D-3416EE7EE4F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263BF20D-22A5-4776-908D-3416EE7EE4F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55966CEB-5556-4704-868F-F897C79D078A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55966CEB-5556-4704-868F-F897C79D078A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55966CEB-5556-4704-868F-F897C79D078A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55966CEB-5556-4704-868F-F897C79D078A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CD8DD89-C7D7-4CF7-A843-DF5FF8EC49CD}
+	EndGlobalSection
+EndGlobal
